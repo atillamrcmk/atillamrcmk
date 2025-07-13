@@ -20,11 +20,9 @@
 
 ### 📫 Bana Ulaşın
 
-- 📧 **E-posta:** atilla@example.com  
-- 🔗 **LinkedIn:** [linkedin.com/in/kullaniciadi](https://linkedin.com)  
-- 💻 **GitHub:** [github.com/atillamrcmk](https://github.com/atillamrcmk)
+- 📧 **E-posta:** mercimekatilla53@gmail.com.com  
+- 🔗 **LinkedIn:** [linkedin.com/in/Atilla Mercimek](https://linkedin.com)  
 
----
 
 ### 🛠️ Kullandığım Teknolojiler ve Araçlar
 
@@ -51,4 +49,3 @@
 
 ---
 
-> “Kod sadece bilgisayara verilen komutlar değil, gelecekteki kendinle ve takım arkadaşlarınla yapılan bir iletişimdir.”
