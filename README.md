@@ -1,30 +1,31 @@
-<h1 align="center">Merhaba 👋, Ben Atilla</h1>
-<h3 align="center">Yazılım Mühendisi • Mobil & AI Geliştirici • Üretkenlik Odaklı Çözümleyici</h3>
+<h1 align="center">Hi 👋, I'm Atilla Mercimek</h1>
+<h3 align="center">Software Engineer • Mobile & AI Developer • Productivity-Driven Problem Solver</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=atillamrcmk&label=Profil%20Görüntülenme&color=0e75b6&style=flat" alt="atillamrcmk" />
+  <img src="https://komarev.com/ghpvc/?username=atillamrcmk&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-### 💬 Hakkımda
+### 💡 About Me
 
-- 🎓 **Atatürk Üniversitesi Yazılım Mühendisliği** mezunuyum  
-- 🖥️ **C# (.NET, WinForms)** ile masaüstü uygulamalar geliştiriyorum  
-- 📱 **Flutter** ile mobil uygulama geliştirme üzerine çalışıyorum  
-- 🤖 **Python, OpenCV ve Yapay Zekâ** alanlarına özel ilgi duyuyorum  
-- 📚 Şu anda **.NET Core**, REST API'ler ve makine öğrenmesi üzerine çalışıyorum  
-- 🧠 Temiz, okunabilir ve sürdürülebilir kod yazmayı savunuyorum
+- 🎓 Graduated from **Atatürk University, Software Engineering**  
+- 💻 Building desktop applications using **C# (.NET, WinForms)**  
+- 📱 Developing mobile apps with **Flutter & Dart**  
+- 🤖 Passionate about **Artificial Intelligence, Python & OpenCV**  
+- 🔍 Currently exploring **.NET Core**, RESTful APIs, and **Machine Learning**  
+- 🧠 Advocate for clean, readable, and maintainable code  
 
 ---
 
-### 📫 Bana Ulaşın
+### 📫 Contact
 
-- 📧 **E-posta:** mercimekatilla53@gmail.com.com  
-- 🔗 **LinkedIn:** [linkedin.com/in/Atilla Mercimek](https://linkedin.com)  
+- 📧 **Email:** mercimekatilla53@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/AtillaMercimek](https://linkedin.com)  
 
+---
 
-### 🛠️ Kullandığım Teknolojiler ve Araçlar
+### 🛠️ Tech Stack & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -40,7 +41,7 @@
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=atillamrcmk&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -48,4 +49,3 @@
 </p>
 
 ---
-
