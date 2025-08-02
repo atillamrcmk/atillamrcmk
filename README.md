@@ -21,7 +21,7 @@
 ### 📫 Contact
 
 - 📧 **Email:** mercimekatilla53@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/AtillaMercimek](https://linkedin.com)  
+- 💼 **LinkedIn:** linkedin.com/in/atilla-mercimek-6025b7222
 
 ---
 
