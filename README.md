@@ -88,8 +88,7 @@ Masaüstü ve backend tarafında, gerçek kullanım senaryolarına yönelik yaz�
 ## 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=atillamrcmk&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=atillamrcmk&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=atillamrcmk&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
