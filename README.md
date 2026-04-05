@@ -1,51 +1,50 @@
-<h1 align="center">Hi, I'm Atilla Mercimek 👋</h1>
-<h3 align="center">Software Engineer • Mobile Developer • AI Enthusiast</h3>
+<h1 align="center">Merhaba, ben Atilla Mercimek 👋</h1>
+<h3 align="center">Yazılım Mühendisi • Mobil & Yapay Zeka Geliştirici</h3>
 
 <p align="center">
-  <img src="BURAYA_MEVCUT_VISITOR_BADGE_URLINI_AYNEN_YAPISTIR" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=atillamrcmk&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
-  I build mobile, desktop, and AI-powered solutions with a focus on real-world impact, clean architecture, and maintainable software.
+  Gerçek dünya problemlerine odaklanan, sürdürülebilir ve ölçeklenebilir yazılım çözümleri geliştiriyorum.
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Hakkımda
 
-- 🎓 Software Engineering graduate from Atatürk University
-- 📱 Developing cross-platform mobile applications with **Flutter**
-- 💻 Building desktop and backend solutions with **C#**, **.NET**, and **REST APIs**
-- 🤖 Interested in **Artificial Intelligence**, **Computer Vision**, and **Machine Learning**
-- 🧠 Focused on writing clean, scalable, and maintainable code
-- 🌍 Currently working on projects in **mobile apps, AI systems, and institutional software solutions**
-
----
-
-## 💼 What I Work On
-
-- **Mobile App Development** with Flutter & Dart
-- **Backend Development** with .NET / RESTful APIs
-- **Desktop Applications** with C# and WinForms / .NET
-- **AI & Computer Vision** using Python, OpenCV, and ML tools
-- **Database Design** with PostgreSQL / SQLite / SQL Server
-- **Real-world software solutions** for productivity, analysis, and operational workflows
+- 🎓 Atatürk Üniversitesi Yazılım Mühendisliği mezunuyum  
+- 📱 Flutter ile mobil uygulamalar geliştiriyorum  
+- 💻 C# ve .NET ile masaüstü ve backend sistemleri kuruyorum  
+- 🤖 Yapay zeka, bilgisayarla görme ve veri odaklı sistemlerle ilgileniyorum  
+- 🧠 Temiz kod, sürdürülebilir mimari ve gerçek problem çözümüne odaklanıyorum  
+- 🌍 Analiz sistemleri, karar destek uygulamaları ve kurumsal çözümler geliştiriyorum  
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Uzmanlık Alanlarım
 
-### Languages
+- **Mobil Uygulama Geliştirme** (Flutter & Dart)  
+- **Backend Geliştirme** (.NET, RESTful API)  
+- **Masaüstü Uygulamalar** (C#, WinForms, .NET)  
+- **Yapay Zeka & Görüntü İşleme** (Python, OpenCV, ML)  
+- **Veritabanı Tasarımı** (PostgreSQL, SQLite, SQL Server)  
+- **Karar Destek ve Analiz Sistemleri**
+
+---
+
+## 🛠️ Teknolojiler
+
+### Diller
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
-### Frameworks & Tools
+### Framework & Araçlar
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -55,7 +54,7 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
-### Databases & Platforms
+### Veritabanı & Platformlar
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
@@ -63,7 +62,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-### Development Tools
+### Geliştirme Araçları
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -75,23 +74,18 @@
 
 ---
 
-## 📌 Featured Projects
+## 📌 Öne Çıkan Çalışmalar
 
-### 📱 Koleksiyonum
-A mobile application for saving, organizing, and tracking products from e-commerce platforms.  
-**Tech:** Flutter, Node.js, PostgreSQL, Firebase
+### 🏛️ Karar Destek ve Analiz Sistemleri
+Operasyonel verileri analiz ederek karar süreçlerini destekleyen sistemler geliştirme üzerine çalışmalar.  
+ 
 
-### 🏛️ Institutional Decision Support / Analysis Systems
-Software ideas and prototypes focused on operational efficiency, analysis, and reporting.  
-**Tech:** C#, .NET, SQL Server, desktop-based solutions
-
-### 🤖 AI & Computer Vision Projects
-Experiments and systems involving logo similarity, embeddings, visual analysis, and machine learning workflows.  
-**Tech:** Python, OpenCV, vector search, ML pipelines
+### 🖥️ Kurumsal Yazılım Çözümleri
+Masaüstü ve backend tarafında, gerçek kullanım senaryolarına yönelik yazılım sistemleri geliştirme.  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub İstatistiklerim
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=atillamrcmk&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -100,13 +94,13 @@ Experiments and systems involving logo similarity, embeddings, visual analysis, 
 
 ---
 
-## 📫 Contact
+## 📫 İletişim
 
-- **Email:** mercimekatilla53@gmail.com
-- **LinkedIn:** [linkedin.com/in/atilla-mercimek-6025b7222](https://linkedin.com/in/atilla-mercimek-6025b7222)
+- 📧 Email: mercimekatilla53@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/atilla-mercimek-6025b7222  
 
 ---
 
-## ✨ Profile Motto
+## ✨ Kişisel Not
 
-> Building software that is not only functional, but also meaningful, scalable, and impactful.
+> Amaç sadece yazılım geliştirmek değil, gerçek problemlere çözüm üreten sistemler inşa etmektir.
