@@ -1,41 +1,41 @@
-<h1 align="center">Merhaba, ben Atilla Mercimek 👋</h1>
-<h3 align="center">Yazılım Mühendisi • Mobil & Yapay Zeka Geliştirici</h3>
+<h1 align="center">Hi, I'm Atilla Mercimek 👋</h1>
+<h3 align="center">Software Engineer • Mobile & AI Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=atillamrcmk&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
-  Gerçek dünya problemlerine odaklanan, sürdürülebilir ve ölçeklenebilir yazılım çözümleri geliştiriyorum.
+  I build scalable and sustainable software solutions focused on solving real-world problems.
 </p>
 
 ---
 
-## 🚀 Hakkımda
+## 🚀 About Me
 
-- 🎓 Atatürk Üniversitesi Yazılım Mühendisliği mezunuyum  
-- 📱 Flutter ile mobil uygulamalar geliştiriyorum  
-- 💻 C# ve .NET ile masaüstü ve backend sistemleri kuruyorum  
-- 🤖 Yapay zeka, bilgisayarla görme ve veri odaklı sistemlerle ilgileniyorum  
-- 🧠 Temiz kod, sürdürülebilir mimari ve gerçek problem çözümüne odaklanıyorum  
-- 🌍 Analiz sistemleri, karar destek uygulamaları ve kurumsal çözümler geliştiriyorum  
-
----
-
-## 💼 Uzmanlık Alanlarım
-
-- **Mobil Uygulama Geliştirme** (Flutter & Dart)  
-- **Backend Geliştirme** (.NET, RESTful API)  
-- **Masaüstü Uygulamalar** (C#, WinForms, .NET)  
-- **Yapay Zeka & Görüntü İşleme** (Python, OpenCV, ML)  
-- **Veritabanı Tasarımı** (PostgreSQL, SQLite, SQL Server)  
-- **Karar Destek ve Analiz Sistemleri**
+- 🎓 Graduate of Atatürk University, Software Engineering  
+- 📱 Developing mobile applications using Flutter  
+- 💻 Building backend and desktop systems with C# and .NET  
+- 🤖 Interested in artificial intelligence, computer vision, and data-driven systems  
+- 🧠 Focused on clean code, sustainable architecture, and real problem-solving  
+- 🌍 Developing analysis systems, decision support applications, and enterprise solutions  
 
 ---
 
-## 🛠️ Teknolojiler
+## 💼 Areas of Expertise
 
-### Diller
+- **Mobile Application Development** (Flutter & Dart)  
+- **Backend Development** (.NET, RESTful APIs)  
+- **Desktop Applications** (C#, WinForms, .NET)  
+- **Artificial Intelligence & Computer Vision** (Python, OpenCV, ML)  
+- **Database Design** (PostgreSQL, SQLite, SQL Server)  
+- **Decision Support & Analytics Systems**
+
+---
+
+## 🛠️ Technologies
+
+### Languages
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white" />
 </p>
 
-### Framework & Araçlar
+### Frameworks & Tools
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
-### Veritabanı & Platformlar
+### Databases & Platforms
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
@@ -62,7 +62,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-### Geliştirme Araçları
+### Development Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -74,18 +74,17 @@
 
 ---
 
-## 📌 Öne Çıkan Çalışmalar
+## 📌 Featured Work
 
-### 🏛️ Karar Destek ve Analiz Sistemleri
-Operasyonel verileri analiz ederek karar süreçlerini destekleyen sistemler geliştirme üzerine çalışmalar.  
- 
+### 🏛️ Decision Support & Analytics Systems
+Developing systems that analyze operational data to support decision-making processes.
 
-### 🖥️ Kurumsal Yazılım Çözümleri
-Masaüstü ve backend tarafında, gerçek kullanım senaryolarına yönelik yazılım sistemleri geliştirme.  
+### 🖥️ Enterprise Software Solutions
+Building desktop and backend systems tailored to real-world use cases.
 
 ---
 
-## 📊 GitHub İstatistiklerim
+## 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=atillamrcmk&theme=tokyonight&hide_border=true" />
@@ -93,13 +92,13 @@ Masaüstü ve backend tarafında, gerçek kullanım senaryolarına yönelik yaz�
 
 ---
 
-## 📫 İletişim
+## 📫 Contact
 
 - 📧 Email: mercimekatilla53@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/atilla-mercimek-6025b7222  
 
 ---
 
-## ✨ Kişisel Not
+## ✨ Personal Note
 
-> Amaç sadece yazılım geliştirmek değil, gerçek problemlere çözüm üreten sistemler inşa etmektir.
+> The goal is not just to write software, but to build systems that solve real problems.
