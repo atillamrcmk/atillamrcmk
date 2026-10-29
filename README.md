@@ -1,104 +1,52 @@
-<h1 align="center">Hi, I'm Atilla Mercimek 👋</h1>
-<h3 align="center">Software Engineer • Mobile & AI Developer</h3>
+<h1 align="center">Atilla Mercimek</h1>
+<p align="center"><strong>Software Engineer</strong></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=atillamrcmk&label=Profile%20views&color=0e75b6&style=flat" />
+  Mobile Applications · Backend Systems · Desktop Software
 </p>
 
 <p align="center">
-  I build scalable and sustainable software solutions focused on solving real-world problems.
+  <a href="https://atillamrcmk.github.io/">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/atilla-mercimek-6025b7222/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:mercimekatilla53@gmail.com">Email</a>
 </p>
-
----
-
-## 🚀 About Me
-
-- 🎓 Graduate of Atatürk University, Software Engineering  
-- 📱 Developing mobile applications using Flutter  
-- 💻 Building backend and desktop systems with C# and .NET  
-- 🤖 Interested in artificial intelligence, computer vision, and data-driven systems  
-- 🧠 Focused on clean code, sustainable architecture, and real problem-solving  
-- 🌍 Developing analysis systems, decision support applications, and enterprise solutions  
-
----
-
-## 💼 Areas of Expertise
-
-- **Mobile Application Development** (Flutter & Dart)  
-- **Backend Development** (.NET, RESTful APIs)  
-- **Desktop Applications** (C#, WinForms, .NET)  
-- **Artificial Intelligence & Computer Vision** (Python, OpenCV, ML)  
-- **Database Design** (PostgreSQL, SQLite, SQL Server)  
-- **Decision Support & Analytics Systems**
-
----
-
-## 🛠️ Technologies
-
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white" />
-</p>
-
-### Frameworks & Tools
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/WinForms-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-</p>
-
-### Databases & Platforms
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
-
-### Development Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
----
-
-## 📌 Featured Work
-
-### 🏛️ Decision Support & Analytics Systems
-Developing systems that analyze operational data to support decision-making processes.
-
-### 🖥️ Enterprise Software Solutions
-Building desktop and backend systems tailored to real-world use cases.
-
----
-
-## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=atillamrcmk&theme=tokyonight&hide_border=true" />
+  English · <a href="./README.tr.md">Türkçe</a>
 </p>
 
 ---
 
-## 📫 Contact
+## Profile
 
-- 📧 Email: mercimekatilla53@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/atilla-mercimek-6025b7222  
+I hold a degree in Software Engineering from Atatürk University. My work spans mobile applications, backend services, and desktop software.
 
----
+My approach to software development centers on understanding requirements, defining clear responsibilities, and maintaining a readable codebase. I make technical decisions based on the needs and operating conditions of the software.
 
-## ✨ Personal Note
+## Technical Skills
 
-> The goal is not just to write software, but to build systems that solve real problems.
+| Area | Technologies |
+| :--- | :--- |
+| Programming Languages | C#, TypeScript, JavaScript, Dart, Python, SQL |
+| Mobile Development | React Native, Expo, Flutter |
+| Backend Development | ASP.NET Core, Node.js, Express, REST APIs |
+| Desktop Development | .NET, Windows Forms |
+| Databases | PostgreSQL, SQL Server, SQLite |
+| Computer Vision | OpenCV, YOLO |
+| Development Tools | Git, GitHub, Visual Studio, VS Code, Postman |
+
+## Engineering Approach
+
+- Modular design and separation of concerns.
+- Readable, testable, and maintainable code.
+- Data integrity, input validation, and access control.
+- Error handling, logging, and technical documentation.
+- Architecture and technology choices proportionate to requirements.
+
+## Professional Development
+
+I am expanding my backend development skills within the Java and Spring Boot ecosystem, with a focus on layered architecture, data access, and API design. My broader interests include computer vision and data-driven systems.
+
+## Contact
+
+[Portfolio](https://atillamrcmk.github.io/) · [LinkedIn](https://www.linkedin.com/in/atilla-mercimek-6025b7222/) · [mercimekatilla53@gmail.com](mailto:mercimekatilla53@gmail.com)
